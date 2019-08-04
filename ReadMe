@@ -1,0 +1,11 @@
+Data Analytics: Major Research Project_KSomisetty_500921076
+
+
+
+
+This Project is Completely Implemented on Spark using DataBricks Community Edition.This has got Two Ipynb Files.
+
+1. Data Visulaization
+2. KSomisetty_Final_MRP_Project_ROC_Included
+
+Data Visulaization has got the Data Analysis of the Features and Bar Plots that Supports the analysis and the KSomisetty_Final_MRP_Project_ROC_Included.IPYNB has got the model Implementation using Logistic Regression , Decision Trees and Random Forest .

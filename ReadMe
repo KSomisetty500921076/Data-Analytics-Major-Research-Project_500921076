@@ -1,15 +1,15 @@
 Data Analytics: Major Research Project_KSomisetty_500921076
-
+Project Title : Online Detection of User’s Anomalous Activities using Logs _KSomisetty_500921076
 
 
 
 This Project is Completely Implemented on Spark using DataBricks Community Edition.This has got Two Ipynb Files.
 
-1. KSomisetty_Final_MRP_Data_Visualization_500921076
-2. KSomisetty_Final_MRP_Project_ROC_Included_500921076
+1. KSomisetty_Final_MRP_Data_Visualization_500921076.ipynb
+2. KSomisetty_Final_MRP_Project_ROC_Included_500921076.ipynb
 
 
-File KSomisetty_Final_MRP_Data_Visualization_500921076.IPYNB has got the Data Analysis of the Features and Bar Plots that Supports the analysis and the KSomisetty_Final_MRP_Project_ROC_Included_500921076.IPYNB has got the model Implementation using Logistic Regression , Decision Trees and Random Forest .
+File KSomisetty_Final_MRP_Data_Visualization_500921076.ipynb has got the Data Analysis of the Features and Bar Plots that Supports the analysis and the KSomisetty_Final_MRP_Project_ROC_Included_500921076.ipynb has got the model Implementation using Logistic Regression , Decision Trees and Random Forest .
 
 Data set:
 
@@ -24,4 +24,13 @@ This Projects also Included results in HTML Files
 
 1. KSomisetty_Final_MRP_Project_ROC_Included_500921076.html
 2. KSomisetty_Final_MRP_Data_Visualization_500921076.html
+
+Reports:
+
+This Project also contains Proposal, Literate Review, Methodology and experiement documents.
+
+1. KSomisetty_Final_MRP_Project_Proposal_500921076.rtf
+2. KSomisetty_Final_MRP_Project_Literature-Review_500921076.docx
+3. KSomisetty_Final_MRP_Project_Methodology_N_Experiement_500921076.docx
+
 

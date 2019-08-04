@@ -11,7 +11,7 @@ This Project is Completely Implemented on Spark using DataBricks Community Editi
 
 File KSomisetty_Final_MRP_Data_Visualization_500921076.ipynb has got the Data Analysis of the Features and Bar Plots that Supports the analysis and the KSomisetty_Final_MRP_Project_ROC_Included_500921076.ipynb has got the model Implementation using Logistic Regression , Decision Trees and Random Forest .
 
-Data set:
+DataSet:
 
 This Project also has got Two Data set files from open source link http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 
@@ -20,7 +20,7 @@ This Project also has got Two Data set files from open source link http://kdd.ic
 
 Results:
 
-This Projects also Included results in zip File MRP_Project_Results_KSomisetty_500921076.zip, It Containe two HTML files, 
+This Project also Included results in zip File MRP_Project_Results_KSomisetty_500921076.zip, It Contains two HTML files, 
 Please download zip file MRP_Project_Results_KSomisetty_500921076.zip to view results.
 
 MRP_Project_Results_KSomisetty_500921076.zip

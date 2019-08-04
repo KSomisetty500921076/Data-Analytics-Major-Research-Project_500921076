@@ -5,7 +5,23 @@ Data Analytics: Major Research Project_KSomisetty_500921076
 
 This Project is Completely Implemented on Spark using DataBricks Community Edition.This has got Two Ipynb Files.
 
-1. Data Visulaization
-2. KSomisetty_Final_MRP_Project_ROC_Included
+1. KSomisetty_Final_MRP_Data_Visualization_500921076
+2. KSomisetty_Final_MRP_Project_ROC_Included_500921076
 
-Data Visulaization has got the Data Analysis of the Features and Bar Plots that Supports the analysis and the KSomisetty_Final_MRP_Project_ROC_Included.IPYNB has got the model Implementation using Logistic Regression , Decision Trees and Random Forest .
+
+File KSomisetty_Final_MRP_Data_Visualization_500921076.IPYNB has got the Data Analysis of the Features and Bar Plots that Supports the analysis and the KSomisetty_Final_MRP_Project_ROC_Included_500921076.IPYNB has got the model Implementation using Logistic Regression , Decision Trees and Random Forest .
+
+Data set:
+
+This Project also has got Two Data set files from open source link http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+
+1. kddcup.data_10_percent
+2. corrected
+
+Results:
+
+This Projects also Included results in HTML Files
+
+1. KSomisetty_Final_MRP_Project_ROC_Included_500921076.html
+2. KSomisetty_Final_MRP_Data_Visualization_500921076.html
+
